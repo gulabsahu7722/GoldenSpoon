@@ -277,7 +277,7 @@ hr {
     }
 
     .about-section, .hero-section {
-        flex-direction: column; 
+        flex-direction: column-revrse; 
         align-items: center;
         gap: 40px;
         padding: 20px;
