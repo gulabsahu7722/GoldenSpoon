@@ -330,6 +330,7 @@ hr {
    
     .about-section {
         text-align: center;
+        flex-direction:column;
     }
     
     .left-section img {
