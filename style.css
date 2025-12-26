@@ -337,6 +337,7 @@ hr {
     
     .hero-section {
         padding: 10px;
+        flex-direction:column-reverse;
     }
 
     .contact-section, .gallery {
