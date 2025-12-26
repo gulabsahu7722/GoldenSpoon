@@ -283,7 +283,7 @@ hr {
         height: auto;
     }
 
-    .about-section, .hero-section { 
+    .about-section{ 
         align-items: center;
         gap: 40px;
         padding: 20px;
