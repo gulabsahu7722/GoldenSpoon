@@ -276,7 +276,12 @@ hr {
         height: auto;
     }
 
-    .about-section, .hero-section {
+    .about-section, .hero-section { 
+        align-items: center;
+        gap: 40px;
+        padding: 20px;
+    }
+    .hero-section{
         flex-direction: column-revrse; 
         align-items: center;
         gap: 40px;
@@ -337,7 +342,7 @@ hr {
     
     .hero-section {
         padding: 10px;
-        
+        flex-direction:colummn-reverse;
     }
 
     .contact-section, .gallery {
